@@ -1,6 +1,8 @@
 
 import Link from 'next/link';
-const Navbar = () => {
+
+type Props = {};
+const Navbar : React.FC<Props>= () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-light bg-light">
     <div className="container-fluid">
