@@ -1,4 +1,4 @@
-// import '../styles/Main.scss'
+
 import Link from 'next/link';
 const Navbar = () => {
   return (

@@ -1,6 +1,5 @@
 
 
-// import '../styles/Main.scss'
 const about = () => {
   return (
     <div className="text-center" >

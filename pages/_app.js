@@ -1,5 +1,5 @@
 import Layout from '../components/Layout'
-
+import '../styles/Main.scss'
 
 function MyApp({ Component, pageProps }) {
   return (
@@ -8,7 +8,6 @@ function MyApp({ Component, pageProps }) {
 
     </Layout>
   )
-  // return <Component {...pageProps} />
 }
 
 export default MyApp
