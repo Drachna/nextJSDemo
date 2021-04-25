@@ -13,7 +13,10 @@ const Navbar : React.FC<Props>= () => {
           </li>
           <li className="nav-item">
           <Link href="/about"><a className="nav-link">About</a></Link>
-          </li>      
+          </li>    
+          <li className="nav-item">
+          <Link href="/people"><a className="nav-link">People</a></Link>
+          </li>   
         </ul>
       </div>
     </div>
